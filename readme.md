@@ -5,4 +5,4 @@
    Information like the name of the employee, job title, phone number, address, email, fax and the
    website address isto be displayed. Insert a horizontal line between the job title and the phone
    number.
-   <img src='./assets'>
+   <img src='./assets/1.png'>
