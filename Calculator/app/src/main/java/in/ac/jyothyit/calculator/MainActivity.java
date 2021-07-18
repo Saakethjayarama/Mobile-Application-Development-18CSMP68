@@ -58,7 +58,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             @Override
             public void onClick(View v) {
                 String expression = etResult.getText().toString();
-                String result = "";
 
                 if (expression.contains("/")) {
                     String[] splitExpression = expression.split("/");
